@@ -1,1 +1,1 @@
-static libarary
+All about static libraries
